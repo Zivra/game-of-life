@@ -8,7 +8,7 @@
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
-            color: green;
+            color: red;
             font-family: sans-serif;
         }
 
@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life, Kimberly! Now get back to work!</h2>
+<h2>Welcome to Conway's Game Of Life, Kimberly!</h2>
 <h3>Enjoy!</h3>
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
